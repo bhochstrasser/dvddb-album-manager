@@ -1,0 +1,116 @@
+BODY
+{
+    COLOR: black;
+    FONT-FAMILY: Verdana, Arial;
+    FONT-SIZE: 12px;
+    TEXT-DECORATION: none
+}
+A:active
+{
+    COLOR: #00ff00;
+    FONT-FAMILY: Verdana, Arial;
+    FONT-SIZE: 12px;
+    TEXT-DECORATION: none
+}
+A:link
+{
+    COLOR: #008000;
+    FONT-FAMILY: Verdana, Arial;
+    FONT-SIZE: 12px;
+    TEXT-DECORATION: none
+}
+A:visited
+{
+    COLOR: #008080;
+    FONT-FAMILY: Verdana, Arial;
+    FONT-SIZE: 12px;
+    TEXT-DECORATION: none
+}
+DIV.pageheading
+{
+    COLOR: #000000;
+    FONT-FAMILY: Comic Sans MS, Verdana, Arial;
+    FONT-SIZE: 26px;
+}
+.plain
+{
+    COLOR: black;
+    FONT-FAMILY: Arial, Verdana;
+    FONT-SIZE: 12px;
+}
+TD
+{
+    COLOR: black;
+    FONT-FAMILY: Verdana, Arial;
+    FONT-SIZE: 12px;
+    TEXT-DECORATION: none
+}
+TABLE.datatable {
+	width: 100%;
+}
+TD.tablehead
+{
+	padding: 4px;
+	font-weight: bold;
+	border-right: 2px solid #FFFFFF;
+	border-bottom: 2px solid #FFFFFF;
+	background-color: #B2F6B7;
+}
+
+TD.tablecell0
+{
+	padding: 4px;
+	border-right: 2px solid #FFFFFF;
+	border-bottom: 2px solid #FFFFFF;
+	background-color: #F4DD70;
+}
+TD.tablecell1
+{
+	padding: 4px;
+	border-right: 2px solid #FFFFFF;
+	border-bottom: 2px solid #FFFFFF;
+	background-color: #F9EFAF;
+}
+
+TD.border
+{
+	background-color: #F9EFAF;
+}
+
+TD.admin
+{
+	background-color: #C6C6FF;
+	text-align: center;
+}
+TD.stats
+{
+	background-color: #F0F0F0;
+	white-space: nowrap;
+}
+
+TD.statsbar
+{
+	background-color: #6476B9;
+	line-height: 6px;
+}
+TD.emptybar
+{
+	line-height: 6px;
+}
+SPAN.movtitle
+{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 18pt;
+}
+TD.movtitle
+{
+        border-bottom: 2px solid #000000;
+}
+TD.movdetails
+{
+	padding-bottom: 4px;
+}
+SELECT.genre
+{
+	width: 120px;
+}

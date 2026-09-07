@@ -1,0 +1,246 @@
+BODY {
+	margin: 0px;
+	background-color: #3D4756;
+	color: #FFFFFF;
+}
+A:link
+{
+	color: #FFCC33;
+	text-decoration: none;
+}
+A:active
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+A:visited
+{
+	color: #FFCC33;
+	text-decoration: none;
+}
+A.nav:active
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #DDDDDD;
+	text-decoration: none;
+}
+A.nav:link
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #DDDDDD;
+	text-decoration: none;
+}
+A.nav:visited
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #DDDDDD;
+	text-decoration: none;
+}
+A.tblhead:link {
+	color: #444444;
+	text-decoration: none;
+}
+A.tblhead:active {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+A.tblhead:visited {
+	color: #444444;
+	text-decoration: none;
+}
+A.hp:link {
+	color: #000000;
+}
+A.hp:visited {
+	color: #000000;
+}
+TABLE.maintbl {
+	height: 100%;
+	width: 100%;
+}
+TABLE.navtbl {
+	width: 150px;
+	border: 1px solid #000000;
+	margin-bottom: 10px;
+}
+TD.navhead {
+	color: #000000;
+	background-color: #FCBE2E;
+	border-bottom: 1px solid #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	padding: 2px 2px 2px 6px;
+}
+TD.navbody {
+	background-color: #384250;
+	padding: 2px 2px 6px 6px;
+}
+TD.maintblleft {
+	vertical-align: top;
+	width: 150px;
+	padding: 6px;
+}
+TD.header {
+	height: 74px;
+	background-image: url(images/headerbg.gif);
+	background-repeat: repeat-x;
+
+}
+TD.divline {
+	width: 3px;
+	background-image: url(images/divline.gif);
+	background-repeat: repeat-y;
+}
+TD.footer {
+	height: 42px;
+	background-image: url(images/footer.gif);
+	background-repeat: repeat-x;
+	background-position: bottom;
+	text-align: center;
+	vertical-align: bottom;
+}
+TD.headerleft {
+	background-image: url(images/header.gif);
+	background-repeat: no-repeat;
+	width: 260px;
+	vertical-align: top;
+	padding-top: 25px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	height: 74px;
+	color: #000000;
+}
+TABLE.output {
+	height: 100%;
+}
+TD.bodyright {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-align: left;
+	vertical-align: top;
+	padding: 6px;
+}
+TABLE.logos {
+	width: 329px;
+	height: 34px;
+	background-image: url(images/logos.gif);
+	background-repeat: no-repeat;
+	text-align: left;
+	vertical-align: baseline;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	padding-bottom: 5px;
+	padding-left: 270px;
+	font-weight: bold;
+	color: #000000;
+}
+TD.tablehead {
+	color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	background-color: #FCBE2E;
+	padding-right: 3px;
+	padding-left: 3px;
+	border-top: 0px solid #000000;
+	border-bottom: 1px solid #000000;
+	border-left: 0px solid #000000;
+	border-right: 1px solid #000000;
+	font-weight: bold;
+}
+TABLE.datatable {
+	width: 100%;
+	border-top: 1px solid #000000;
+	border-right: 0px solid #000000;
+	border-bottom: 0px solid #000000;
+	border-left: 1px solid #000000;
+}
+TABLE.configtable {
+	border-top: 1px solid #000000;
+	border-right: 0px solid #000000;
+	border-bottom: 0px solid #000000;
+	border-left: 1px solid #000000;
+}
+TD.tablecell0 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	border-top: 0px solid #000000;
+	border-bottom: 1px solid #000000;
+	border-left: 0px solid #000000;
+	border-right: 1px solid #000000;
+	padding-right: 3px;
+	padding-left: 3px;
+	color: #DDDDDD;
+	background-color: #384250;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+TD.tablecell1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	border-top: 0px solid #000000;
+	border-bottom: 1px solid #000000;
+	border-left: 0px solid #000000;
+	border-right: 1px solid #000000;
+	padding-right: 3px;
+	padding-left: 3px;
+	color: #DDDDDD;
+	background-color: #435161;
+}
+TD.statsbar
+{
+        background-color: #FFCC33;
+        line-height: 6px;
+}
+TD.emptybar
+{
+        line-height: 6px;
+}
+TD.stats
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	padding-left: 3px;
+	padding-right: 3px;
+	background-color: #435161;
+	white-space: nowrap;
+}
+.plain
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.movdetails
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	padding-bottom: 4px;
+}
+SPAN.movtitle
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18pt;
+}
+TD.movtitle
+{
+	border-bottom: 2px solid #000000;
+}
+SELECT.genre
+{
+	width: 120px;
+}
+INPUT.button
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	width: 80px;
+	margin-bottom: 4px;
+}
+

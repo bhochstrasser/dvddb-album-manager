@@ -1,0 +1,437 @@
+[08-Sep-2020 12:55:54 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[08-Sep-2020 12:55:54 America/Chicago] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 3
+[08-Sep-2020 12:55:54 America/Chicago] PHP Warning:  Use of undefined constant username - assumed 'username' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 4
+[08-Sep-2020 12:55:54 America/Chicago] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 5
+[08-Sep-2020 12:55:54 America/Chicago] PHP Warning:  Use of undefined constant dbname - assumed 'dbname' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 6
+[08-Sep-2020 12:55:54 America/Chicago] PHP Warning:  Use of undefined constant db - assumed 'db' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 7
+[08-Sep-2020 12:55:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home3/spryguy3/public_html/php/dvddb/inc/db.php:13
+Stack trace:
+#0 /home3/spryguy3/public_html/php/dvddb/inc/db.php(32): sql_conn()
+#1 /home3/spryguy3/public_html/php/dvddb/inc/menu.php(2): require('/home3/spryguy3...')
+#2 /home3/spryguy3/public_html/php/dvddb/index.php(2): require('/home3/spryguy3...')
+#3 {main}
+  thrown in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 13
+[08-Sep-2020 12:56:26 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[08-Sep-2020 12:56:26 America/Chicago] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 3
+[08-Sep-2020 12:56:26 America/Chicago] PHP Warning:  Use of undefined constant username - assumed 'username' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 4
+[08-Sep-2020 12:56:26 America/Chicago] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 5
+[08-Sep-2020 12:56:26 America/Chicago] PHP Warning:  Use of undefined constant dbname - assumed 'dbname' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 6
+[08-Sep-2020 12:56:26 America/Chicago] PHP Warning:  Use of undefined constant db - assumed 'db' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 7
+[08-Sep-2020 12:56:26 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home3/spryguy3/public_html/php/dvddb/inc/db.php:13
+Stack trace:
+#0 /home3/spryguy3/public_html/php/dvddb/inc/db.php(32): sql_conn()
+#1 /home3/spryguy3/public_html/php/dvddb/inc/menu.php(2): require('/home3/spryguy3...')
+#2 /home3/spryguy3/public_html/php/dvddb/index.php(2): require('/home3/spryguy3...')
+#3 {main}
+  thrown in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 13
+[08-Sep-2020 12:58:40 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[08-Sep-2020 12:58:40 America/Chicago] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 3
+[08-Sep-2020 12:58:40 America/Chicago] PHP Warning:  Use of undefined constant username - assumed 'username' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 4
+[08-Sep-2020 12:58:40 America/Chicago] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 5
+[08-Sep-2020 12:58:40 America/Chicago] PHP Warning:  Use of undefined constant dbname - assumed 'dbname' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 6
+[08-Sep-2020 12:58:40 America/Chicago] PHP Warning:  Use of undefined constant db - assumed 'db' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 7
+[08-Sep-2020 12:58:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home3/spryguy3/public_html/php/dvddb/inc/db.php:13
+Stack trace:
+#0 /home3/spryguy3/public_html/php/dvddb/inc/db.php(32): sql_conn()
+#1 /home3/spryguy3/public_html/php/dvddb/inc/menu.php(2): require('/home3/spryguy3...')
+#2 /home3/spryguy3/public_html/php/dvddb/index.php(2): require('/home3/spryguy3...')
+#3 {main}
+  thrown in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 13
+[22-Nov-2020 12:33:03 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[22-Nov-2020 12:33:03 America/Chicago] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 3
+[22-Nov-2020 12:33:03 America/Chicago] PHP Warning:  Use of undefined constant username - assumed 'username' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 4
+[22-Nov-2020 12:33:03 America/Chicago] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 5
+[22-Nov-2020 12:33:03 America/Chicago] PHP Warning:  Use of undefined constant dbname - assumed 'dbname' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 6
+[22-Nov-2020 12:33:03 America/Chicago] PHP Warning:  Use of undefined constant db - assumed 'db' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 7
+[22-Nov-2020 12:33:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home3/spryguy3/public_html/php/dvddb/inc/db.php:13
+Stack trace:
+#0 /home3/spryguy3/public_html/php/dvddb/inc/db.php(32): sql_conn()
+#1 /home3/spryguy3/public_html/php/dvddb/inc/menu.php(2): require('/home3/spryguy3...')
+#2 /home3/spryguy3/public_html/php/dvddb/index.php(2): require('/home3/spryguy3...')
+#3 {main}
+  thrown in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 13
+[27-Apr-2021 18:03:48 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[27-Apr-2021 18:03:48 America/Chicago] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 3
+[27-Apr-2021 18:03:48 America/Chicago] PHP Warning:  Use of undefined constant username - assumed 'username' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 4
+[27-Apr-2021 18:03:48 America/Chicago] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 5
+[27-Apr-2021 18:03:48 America/Chicago] PHP Warning:  Use of undefined constant dbname - assumed 'dbname' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 6
+[27-Apr-2021 18:03:48 America/Chicago] PHP Warning:  Use of undefined constant db - assumed 'db' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 7
+[27-Apr-2021 18:03:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home3/spryguy3/public_html/php/dvddb/inc/db.php:13
+Stack trace:
+#0 /home3/spryguy3/public_html/php/dvddb/inc/db.php(32): sql_conn()
+#1 /home3/spryguy3/public_html/php/dvddb/inc/menu.php(2): require('/home3/spryguy3...')
+#2 /home3/spryguy3/public_html/php/dvddb/index.php(2): require('/home3/spryguy3...')
+#3 {main}
+  thrown in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 13
+[31-Jul-2021 20:22:19 America/Chicago] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 3
+[31-Jul-2021 20:22:19 America/Chicago] PHP Warning:  Use of undefined constant username - assumed 'username' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 4
+[31-Jul-2021 20:22:19 America/Chicago] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 5
+[31-Jul-2021 20:22:19 America/Chicago] PHP Warning:  Use of undefined constant dbname - assumed 'dbname' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 6
+[31-Jul-2021 20:22:19 America/Chicago] PHP Warning:  Use of undefined constant db - assumed 'db' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 7
+[31-Jul-2021 20:22:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home3/spryguy3/public_html/php/dvddb/inc/db.php:13
+Stack trace:
+#0 /home3/spryguy3/public_html/php/dvddb/inc/db.php(32): sql_conn()
+#1 /home3/spryguy3/public_html/php/dvddb/inc/menu.php(2): require('/home3/spryguy3...')
+#2 /home3/spryguy3/public_html/php/dvddb/index.php(2): require('/home3/spryguy3...')
+#3 {main}
+  thrown in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 13
+[22-Sep-2021 13:14:08 America/Chicago] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 3
+[22-Sep-2021 13:14:08 America/Chicago] PHP Warning:  Use of undefined constant username - assumed 'username' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 4
+[22-Sep-2021 13:14:08 America/Chicago] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 5
+[22-Sep-2021 13:14:08 America/Chicago] PHP Warning:  Use of undefined constant dbname - assumed 'dbname' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 6
+[22-Sep-2021 13:14:08 America/Chicago] PHP Warning:  Use of undefined constant db - assumed 'db' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 7
+[22-Sep-2021 13:14:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home3/spryguy3/public_html/php/dvddb/inc/db.php:13
+Stack trace:
+#0 /home3/spryguy3/public_html/php/dvddb/inc/db.php(32): sql_conn()
+#1 /home3/spryguy3/public_html/php/dvddb/inc/menu.php(2): require('/home3/spryguy3...')
+#2 /home3/spryguy3/public_html/php/dvddb/index.php(2): require('/home3/spryguy3...')
+#3 {main}
+  thrown in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 13
+[28-Nov-2021 16:46:16 America/Chicago] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 3
+[28-Nov-2021 16:46:16 America/Chicago] PHP Warning:  Use of undefined constant username - assumed 'username' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 4
+[28-Nov-2021 16:46:16 America/Chicago] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 5
+[28-Nov-2021 16:46:16 America/Chicago] PHP Warning:  Use of undefined constant dbname - assumed 'dbname' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 6
+[28-Nov-2021 16:46:16 America/Chicago] PHP Warning:  Use of undefined constant db - assumed 'db' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 7
+[28-Nov-2021 16:46:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home3/spryguy3/public_html/php/dvddb/inc/db.php:13
+Stack trace:
+#0 /home3/spryguy3/public_html/php/dvddb/inc/db.php(32): sql_conn()
+#1 /home3/spryguy3/public_html/php/dvddb/inc/menu.php(2): require('/home3/spryguy3...')
+#2 /home3/spryguy3/public_html/php/dvddb/index.php(2): require('/home3/spryguy3...')
+#3 {main}
+  thrown in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 13
+[07-Jan-2022 06:13:07 America/Chicago] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 3
+[07-Jan-2022 06:13:07 America/Chicago] PHP Warning:  Use of undefined constant username - assumed 'username' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 4
+[07-Jan-2022 06:13:07 America/Chicago] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 5
+[07-Jan-2022 06:13:07 America/Chicago] PHP Warning:  Use of undefined constant dbname - assumed 'dbname' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 6
+[07-Jan-2022 06:13:07 America/Chicago] PHP Warning:  Use of undefined constant db - assumed 'db' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 7
+[07-Jan-2022 06:13:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home3/spryguy3/public_html/php/dvddb/inc/db.php:13
+Stack trace:
+#0 /home3/spryguy3/public_html/php/dvddb/inc/db.php(32): sql_conn()
+#1 /home3/spryguy3/public_html/php/dvddb/inc/menu.php(2): require('/home3/spryguy3...')
+#2 /home3/spryguy3/public_html/php/dvddb/index.php(2): require('/home3/spryguy3...')
+#3 {main}
+  thrown in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 13
+[09-Jan-2022 15:36:04 America/Chicago] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 3
+[09-Jan-2022 15:36:04 America/Chicago] PHP Warning:  Use of undefined constant username - assumed 'username' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 4
+[09-Jan-2022 15:36:04 America/Chicago] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 5
+[09-Jan-2022 15:36:04 America/Chicago] PHP Warning:  Use of undefined constant dbname - assumed 'dbname' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 6
+[09-Jan-2022 15:36:04 America/Chicago] PHP Warning:  Use of undefined constant db - assumed 'db' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 7
+[09-Jan-2022 15:36:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home3/spryguy3/public_html/php/dvddb/inc/db.php:13
+Stack trace:
+#0 /home3/spryguy3/public_html/php/dvddb/inc/db.php(32): sql_conn()
+#1 /home3/spryguy3/public_html/php/dvddb/inc/menu.php(2): require('/home3/spryguy3...')
+#2 /home3/spryguy3/public_html/php/dvddb/index.php(2): require('/home3/spryguy3...')
+#3 {main}
+  thrown in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 13
+[28-Nov-2022 05:59:50 America/Chicago] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 3
+[28-Nov-2022 05:59:50 America/Chicago] PHP Warning:  Use of undefined constant username - assumed 'username' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 4
+[28-Nov-2022 05:59:50 America/Chicago] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 5
+[28-Nov-2022 05:59:50 America/Chicago] PHP Warning:  Use of undefined constant dbname - assumed 'dbname' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 6
+[28-Nov-2022 05:59:50 America/Chicago] PHP Warning:  Use of undefined constant db - assumed 'db' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 7
+[28-Nov-2022 05:59:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home3/spryguy3/public_html/php/dvddb/inc/db.php:13
+Stack trace:
+#0 /home3/spryguy3/public_html/php/dvddb/inc/db.php(32): sql_conn()
+#1 /home3/spryguy3/public_html/php/dvddb/inc/menu.php(2): require('/home3/spryguy3...')
+#2 /home3/spryguy3/public_html/php/dvddb/index.php(2): require('/home3/spryguy3...')
+#3 {main}
+  thrown in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 13
+[11-Jan-2023 09:18:22 America/Chicago] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 3
+[11-Jan-2023 09:18:22 America/Chicago] PHP Warning:  Use of undefined constant username - assumed 'username' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 4
+[11-Jan-2023 09:18:22 America/Chicago] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 5
+[11-Jan-2023 09:18:22 America/Chicago] PHP Warning:  Use of undefined constant dbname - assumed 'dbname' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 6
+[11-Jan-2023 09:18:22 America/Chicago] PHP Warning:  Use of undefined constant db - assumed 'db' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 7
+[11-Jan-2023 09:18:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home3/spryguy3/public_html/php/dvddb/inc/db.php:13
+Stack trace:
+#0 /home3/spryguy3/public_html/php/dvddb/inc/db.php(32): sql_conn()
+#1 /home3/spryguy3/public_html/php/dvddb/inc/menu.php(2): require('/home3/spryguy3...')
+#2 /home3/spryguy3/public_html/php/dvddb/config.php(2): require('/home3/spryguy3...')
+#3 {main}
+  thrown in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 13
+[11-Jan-2023 09:18:22 America/Chicago] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 3
+[11-Jan-2023 09:18:22 America/Chicago] PHP Warning:  Use of undefined constant username - assumed 'username' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 4
+[11-Jan-2023 09:18:22 America/Chicago] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 5
+[11-Jan-2023 09:18:22 America/Chicago] PHP Warning:  Use of undefined constant dbname - assumed 'dbname' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 6
+[11-Jan-2023 09:18:22 America/Chicago] PHP Warning:  Use of undefined constant db - assumed 'db' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 7
+[11-Jan-2023 09:18:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home3/spryguy3/public_html/php/dvddb/inc/db.php:13
+Stack trace:
+#0 /home3/spryguy3/public_html/php/dvddb/inc/db.php(32): sql_conn()
+#1 /home3/spryguy3/public_html/php/dvddb/inc/menu.php(2): require('/home3/spryguy3...')
+#2 /home3/spryguy3/public_html/php/dvddb/listloans.php(2): require('/home3/spryguy3...')
+#3 {main}
+  thrown in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 13
+[11-Jan-2023 09:18:24 America/Chicago] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 3
+[11-Jan-2023 09:18:24 America/Chicago] PHP Warning:  Use of undefined constant username - assumed 'username' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 4
+[11-Jan-2023 09:18:24 America/Chicago] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 5
+[11-Jan-2023 09:18:24 America/Chicago] PHP Warning:  Use of undefined constant dbname - assumed 'dbname' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 6
+[11-Jan-2023 09:18:24 America/Chicago] PHP Warning:  Use of undefined constant db - assumed 'db' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 7
+[11-Jan-2023 09:18:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home3/spryguy3/public_html/php/dvddb/inc/db.php:13
+Stack trace:
+#0 /home3/spryguy3/public_html/php/dvddb/inc/db.php(32): sql_conn()
+#1 /home3/spryguy3/public_html/php/dvddb/inc/menu.php(2): require('/home3/spryguy3...')
+#2 /home3/spryguy3/public_html/php/dvddb/search.php(2): require('/home3/spryguy3...')
+#3 {main}
+  thrown in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 13
+[11-Jan-2023 09:18:26 America/Chicago] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 3
+[11-Jan-2023 09:18:26 America/Chicago] PHP Warning:  Use of undefined constant username - assumed 'username' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 4
+[11-Jan-2023 09:18:26 America/Chicago] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 5
+[11-Jan-2023 09:18:26 America/Chicago] PHP Warning:  Use of undefined constant dbname - assumed 'dbname' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 6
+[11-Jan-2023 09:18:26 America/Chicago] PHP Warning:  Use of undefined constant db - assumed 'db' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 7
+[11-Jan-2023 09:18:26 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home3/spryguy3/public_html/php/dvddb/inc/db.php:13
+Stack trace:
+#0 /home3/spryguy3/public_html/php/dvddb/inc/db.php(32): sql_conn()
+#1 /home3/spryguy3/public_html/php/dvddb/inc/menu.php(2): require('/home3/spryguy3...')
+#2 /home3/spryguy3/public_html/php/dvddb/mlist.php(2): require('/home3/spryguy3...')
+#3 {main}
+  thrown in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 13
+[11-Jan-2023 09:18:32 America/Chicago] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 3
+[11-Jan-2023 09:18:32 America/Chicago] PHP Warning:  Use of undefined constant username - assumed 'username' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 4
+[11-Jan-2023 09:18:32 America/Chicago] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 5
+[11-Jan-2023 09:18:32 America/Chicago] PHP Warning:  Use of undefined constant dbname - assumed 'dbname' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 6
+[11-Jan-2023 09:18:32 America/Chicago] PHP Warning:  Use of undefined constant db - assumed 'db' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 7
+[11-Jan-2023 09:18:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home3/spryguy3/public_html/php/dvddb/inc/db.php:13
+Stack trace:
+#0 /home3/spryguy3/public_html/php/dvddb/inc/db.php(32): sql_conn()
+#1 /home3/spryguy3/public_html/php/dvddb/inc/menu.php(2): require('/home3/spryguy3...')
+#2 /home3/spryguy3/public_html/php/dvddb/password.php(3): require('/home3/spryguy3...')
+#3 {main}
+  thrown in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 13
+[11-Jan-2023 09:18:33 America/Chicago] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 3
+[11-Jan-2023 09:18:33 America/Chicago] PHP Warning:  Use of undefined constant username - assumed 'username' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 4
+[11-Jan-2023 09:18:33 America/Chicago] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 5
+[11-Jan-2023 09:18:33 America/Chicago] PHP Warning:  Use of undefined constant dbname - assumed 'dbname' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 6
+[11-Jan-2023 09:18:33 America/Chicago] PHP Warning:  Use of undefined constant db - assumed 'db' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 7
+[11-Jan-2023 09:18:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home3/spryguy3/public_html/php/dvddb/inc/db.php:13
+Stack trace:
+#0 /home3/spryguy3/public_html/php/dvddb/inc/db.php(32): sql_conn()
+#1 /home3/spryguy3/public_html/php/dvddb/inc/menu.php(2): require('/home3/spryguy3...')
+#2 /home3/spryguy3/public_html/php/dvddb/columnadmin.php(2): require('/home3/spryguy3...')
+#3 {main}
+  thrown in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 13
+[11-Jan-2023 09:18:49 America/Chicago] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 3
+[11-Jan-2023 09:18:49 America/Chicago] PHP Warning:  Use of undefined constant username - assumed 'username' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 4
+[11-Jan-2023 09:18:49 America/Chicago] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 5
+[11-Jan-2023 09:18:49 America/Chicago] PHP Warning:  Use of undefined constant dbname - assumed 'dbname' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 6
+[11-Jan-2023 09:18:49 America/Chicago] PHP Warning:  Use of undefined constant db - assumed 'db' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 7
+[11-Jan-2023 09:18:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home3/spryguy3/public_html/php/dvddb/inc/db.php:13
+Stack trace:
+#0 /home3/spryguy3/public_html/php/dvddb/inc/db.php(32): sql_conn()
+#1 /home3/spryguy3/public_html/php/dvddb/inc/menu.php(2): require('/home3/spryguy3...')
+#2 /home3/spryguy3/public_html/php/dvddb/index.php(2): require('/home3/spryguy3...')
+#3 {main}
+  thrown in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 13
+[11-Jan-2023 09:18:51 America/Chicago] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 3
+[11-Jan-2023 09:18:51 America/Chicago] PHP Warning:  Use of undefined constant username - assumed 'username' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 4
+[11-Jan-2023 09:18:51 America/Chicago] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 5
+[11-Jan-2023 09:18:51 America/Chicago] PHP Warning:  Use of undefined constant dbname - assumed 'dbname' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 6
+[11-Jan-2023 09:18:51 America/Chicago] PHP Warning:  Use of undefined constant db - assumed 'db' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 7
+[11-Jan-2023 09:18:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home3/spryguy3/public_html/php/dvddb/inc/db.php:13
+Stack trace:
+#0 /home3/spryguy3/public_html/php/dvddb/inc/db.php(32): sql_conn()
+#1 /home3/spryguy3/public_html/php/dvddb/inc/menu.php(2): require('/home3/spryguy3...')
+#2 /home3/spryguy3/public_html/php/dvddb/settings.php(2): require('/home3/spryguy3...')
+#3 {main}
+  thrown in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 13
+[11-Jan-2023 09:18:51 America/Chicago] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 3
+[11-Jan-2023 09:18:51 America/Chicago] PHP Warning:  Use of undefined constant username - assumed 'username' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 4
+[11-Jan-2023 09:18:51 America/Chicago] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 5
+[11-Jan-2023 09:18:51 America/Chicago] PHP Warning:  Use of undefined constant dbname - assumed 'dbname' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 6
+[11-Jan-2023 09:18:51 America/Chicago] PHP Warning:  Use of undefined constant db - assumed 'db' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 7
+[11-Jan-2023 09:18:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home3/spryguy3/public_html/php/dvddb/inc/db.php:13
+Stack trace:
+#0 /home3/spryguy3/public_html/php/dvddb/inc/db.php(32): sql_conn()
+#1 /home3/spryguy3/public_html/php/dvddb/inc/menu.php(2): require('/home3/spryguy3...')
+#2 /home3/spryguy3/public_html/php/dvddb/tableedit.php(2): require('/home3/spryguy3...')
+#3 {main}
+  thrown in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 13
+[11-Jan-2023 09:18:53 America/Chicago] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 3
+[11-Jan-2023 09:18:53 America/Chicago] PHP Warning:  Use of undefined constant username - assumed 'username' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 4
+[11-Jan-2023 09:18:53 America/Chicago] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 5
+[11-Jan-2023 09:18:53 America/Chicago] PHP Warning:  Use of undefined constant dbname - assumed 'dbname' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 6
+[11-Jan-2023 09:18:53 America/Chicago] PHP Warning:  Use of undefined constant db - assumed 'db' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 7
+[11-Jan-2023 09:18:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home3/spryguy3/public_html/php/dvddb/inc/db.php:13
+Stack trace:
+#0 /home3/spryguy3/public_html/php/dvddb/inc/db.php(32): sql_conn()
+#1 /home3/spryguy3/public_html/php/dvddb/inc/menu.php(2): require('/home3/spryguy3...')
+#2 /home3/spryguy3/public_html/php/dvddb/themes.php(2): require('/home3/spryguy3...')
+#3 {main}
+  thrown in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 13
+[11-Jan-2023 09:18:54 America/Chicago] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 3
+[11-Jan-2023 09:18:54 America/Chicago] PHP Warning:  Use of undefined constant username - assumed 'username' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 4
+[11-Jan-2023 09:18:54 America/Chicago] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 5
+[11-Jan-2023 09:18:54 America/Chicago] PHP Warning:  Use of undefined constant dbname - assumed 'dbname' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 6
+[11-Jan-2023 09:18:54 America/Chicago] PHP Warning:  Use of undefined constant db - assumed 'db' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 7
+[11-Jan-2023 09:18:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home3/spryguy3/public_html/php/dvddb/inc/db.php:13
+Stack trace:
+#0 /home3/spryguy3/public_html/php/dvddb/inc/db.php(32): sql_conn()
+#1 /home3/spryguy3/public_html/php/dvddb/inc/menu.php(2): require('/home3/spryguy3...')
+#2 /home3/spryguy3/public_html/php/dvddb/listmovies.php(2): require('/home3/spryguy3...')
+#3 {main}
+  thrown in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 13
+[11-Jan-2023 09:18:55 America/Chicago] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 3
+[11-Jan-2023 09:18:55 America/Chicago] PHP Warning:  Use of undefined constant username - assumed 'username' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 4
+[11-Jan-2023 09:18:55 America/Chicago] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 5
+[11-Jan-2023 09:18:55 America/Chicago] PHP Warning:  Use of undefined constant dbname - assumed 'dbname' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 6
+[11-Jan-2023 09:18:55 America/Chicago] PHP Warning:  Use of undefined constant db - assumed 'db' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 7
+[11-Jan-2023 09:18:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home3/spryguy3/public_html/php/dvddb/inc/db.php:13
+Stack trace:
+#0 /home3/spryguy3/public_html/php/dvddb/inc/db.php(32): sql_conn()
+#1 /home3/spryguy3/public_html/php/dvddb/inc/menu.php(2): require('/home3/spryguy3...')
+#2 /home3/spryguy3/public_html/php/dvddb/login.php(3): require('/home3/spryguy3...')
+#3 {main}
+  thrown in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 13
+[11-Jan-2023 09:18:58 America/Chicago] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 3
+[11-Jan-2023 09:18:58 America/Chicago] PHP Warning:  Use of undefined constant username - assumed 'username' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 4
+[11-Jan-2023 09:18:58 America/Chicago] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 5
+[11-Jan-2023 09:18:58 America/Chicago] PHP Warning:  Use of undefined constant dbname - assumed 'dbname' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 6
+[11-Jan-2023 09:18:58 America/Chicago] PHP Warning:  Use of undefined constant db - assumed 'db' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 7
+[11-Jan-2023 09:18:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home3/spryguy3/public_html/php/dvddb/inc/db.php:13
+Stack trace:
+#0 /home3/spryguy3/public_html/php/dvddb/inc/db.php(32): sql_conn()
+#1 /home3/spryguy3/public_html/php/dvddb/inc/menu.php(2): require('/home3/spryguy3...')
+#2 /home3/spryguy3/public_html/php/dvddb/login.php(3): require('/home3/spryguy3...')
+#3 {main}
+  thrown in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 13
+[11-Jan-2023 09:19:06 America/Chicago] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 3
+[11-Jan-2023 09:19:06 America/Chicago] PHP Warning:  Use of undefined constant username - assumed 'username' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 4
+[11-Jan-2023 09:19:06 America/Chicago] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 5
+[11-Jan-2023 09:19:06 America/Chicago] PHP Warning:  Use of undefined constant dbname - assumed 'dbname' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 6
+[11-Jan-2023 09:19:06 America/Chicago] PHP Warning:  Use of undefined constant db - assumed 'db' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 7
+[11-Jan-2023 09:19:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home3/spryguy3/public_html/php/dvddb/inc/db.php:13
+Stack trace:
+#0 /home3/spryguy3/public_html/php/dvddb/inc/db.php(32): sql_conn()
+#1 /home3/spryguy3/public_html/php/dvddb/inc/menu.php(2): require('/home3/spryguy3...')
+#2 /home3/spryguy3/public_html/php/dvddb/showusers.php(2): require('/home3/spryguy3...')
+#3 {main}
+  thrown in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 13
+[11-Jan-2023 09:19:35 America/Chicago] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 3
+[11-Jan-2023 09:19:35 America/Chicago] PHP Warning:  Use of undefined constant username - assumed 'username' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 4
+[11-Jan-2023 09:19:35 America/Chicago] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 5
+[11-Jan-2023 09:19:35 America/Chicago] PHP Warning:  Use of undefined constant dbname - assumed 'dbname' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 6
+[11-Jan-2023 09:19:35 America/Chicago] PHP Warning:  Use of undefined constant db - assumed 'db' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 7
+[11-Jan-2023 09:19:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home3/spryguy3/public_html/php/dvddb/inc/db.php:13
+Stack trace:
+#0 /home3/spryguy3/public_html/php/dvddb/inc/db.php(32): sql_conn()
+#1 /home3/spryguy3/public_html/php/dvddb/inc/menu.php(2): require('/home3/spryguy3...')
+#2 /home3/spryguy3/public_html/php/dvddb/editmovie.php(2): require('/home3/spryguy3...')
+#3 {main}
+  thrown in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 13
+[11-Jan-2023 09:19:45 America/Chicago] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 3
+[11-Jan-2023 09:19:45 America/Chicago] PHP Warning:  Use of undefined constant username - assumed 'username' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 4
+[11-Jan-2023 09:19:45 America/Chicago] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 5
+[11-Jan-2023 09:19:45 America/Chicago] PHP Warning:  Use of undefined constant dbname - assumed 'dbname' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 6
+[11-Jan-2023 09:19:45 America/Chicago] PHP Warning:  Use of undefined constant db - assumed 'db' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 7
+[11-Jan-2023 09:19:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home3/spryguy3/public_html/php/dvddb/inc/db.php:13
+Stack trace:
+#0 /home3/spryguy3/public_html/php/dvddb/inc/db.php(32): sql_conn()
+#1 /home3/spryguy3/public_html/php/dvddb/inc/menu.php(2): require('/home3/spryguy3...')
+#2 /home3/spryguy3/public_html/php/dvddb/listmovies.php(2): require('/home3/spryguy3...')
+#3 {main}
+  thrown in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 13
+[11-Jan-2023 09:19:51 America/Chicago] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 3
+[11-Jan-2023 09:19:51 America/Chicago] PHP Warning:  Use of undefined constant username - assumed 'username' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 4
+[11-Jan-2023 09:19:51 America/Chicago] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 5
+[11-Jan-2023 09:19:51 America/Chicago] PHP Warning:  Use of undefined constant dbname - assumed 'dbname' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 6
+[11-Jan-2023 09:19:51 America/Chicago] PHP Warning:  Use of undefined constant db - assumed 'db' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 7
+[11-Jan-2023 09:19:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home3/spryguy3/public_html/php/dvddb/inc/db.php:13
+Stack trace:
+#0 /home3/spryguy3/public_html/php/dvddb/inc/db.php(32): sql_conn()
+#1 /home3/spryguy3/public_html/php/dvddb/inc/menu.php(2): require('/home3/spryguy3...')
+#2 /home3/spryguy3/public_html/php/dvddb/stats.php(2): require('/home3/spryguy3...')
+#3 {main}
+  thrown in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 13
+[20-Feb-2023 19:38:54 America/Chicago] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 3
+[20-Feb-2023 19:38:54 America/Chicago] PHP Warning:  Use of undefined constant username - assumed 'username' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 4
+[20-Feb-2023 19:38:54 America/Chicago] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 5
+[20-Feb-2023 19:38:54 America/Chicago] PHP Warning:  Use of undefined constant dbname - assumed 'dbname' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 6
+[20-Feb-2023 19:38:54 America/Chicago] PHP Warning:  Use of undefined constant db - assumed 'db' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 7
+[20-Feb-2023 19:38:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home3/spryguy3/public_html/php/dvddb/inc/db.php:13
+Stack trace:
+#0 /home3/spryguy3/public_html/php/dvddb/inc/db.php(32): sql_conn()
+#1 /home3/spryguy3/public_html/php/dvddb/inc/menu.php(2): require('/home3/spryguy3...')
+#2 /home3/spryguy3/public_html/php/dvddb/index.php(2): require('/home3/spryguy3...')
+#3 {main}
+  thrown in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 13
+[20-Feb-2023 19:39:34 America/Chicago] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 3
+[20-Feb-2023 19:39:34 America/Chicago] PHP Warning:  Use of undefined constant username - assumed 'username' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 4
+[20-Feb-2023 19:39:34 America/Chicago] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 5
+[20-Feb-2023 19:39:34 America/Chicago] PHP Warning:  Use of undefined constant dbname - assumed 'dbname' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 6
+[20-Feb-2023 19:39:34 America/Chicago] PHP Warning:  Use of undefined constant db - assumed 'db' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 7
+[20-Feb-2023 19:39:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home3/spryguy3/public_html/php/dvddb/inc/db.php:13
+Stack trace:
+#0 /home3/spryguy3/public_html/php/dvddb/inc/db.php(32): sql_conn()
+#1 /home3/spryguy3/public_html/php/dvddb/inc/menu.php(2): require('/home3/spryguy3...')
+#2 /home3/spryguy3/public_html/php/dvddb/index.php(2): require('/home3/spryguy3...')
+#3 {main}
+  thrown in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 13
+[20-Feb-2023 19:46:12 America/Chicago] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 3
+[20-Feb-2023 19:46:12 America/Chicago] PHP Warning:  Use of undefined constant username - assumed 'username' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 4
+[20-Feb-2023 19:46:12 America/Chicago] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 5
+[20-Feb-2023 19:46:12 America/Chicago] PHP Warning:  Use of undefined constant dbname - assumed 'dbname' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 6
+[20-Feb-2023 19:46:12 America/Chicago] PHP Warning:  Use of undefined constant db - assumed 'db' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 7
+[20-Feb-2023 19:46:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home3/spryguy3/public_html/php/dvddb/inc/db.php:13
+Stack trace:
+#0 /home3/spryguy3/public_html/php/dvddb/inc/db.php(32): sql_conn()
+#1 /home3/spryguy3/public_html/php/dvddb/inc/menu.php(2): require('/home3/spryguy3...')
+#2 /home3/spryguy3/public_html/php/dvddb/login.php(3): require('/home3/spryguy3...')
+#3 {main}
+  thrown in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 13
+[20-Feb-2023 19:46:17 America/Chicago] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 3
+[20-Feb-2023 19:46:17 America/Chicago] PHP Warning:  Use of undefined constant username - assumed 'username' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 4
+[20-Feb-2023 19:46:17 America/Chicago] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 5
+[20-Feb-2023 19:46:17 America/Chicago] PHP Warning:  Use of undefined constant dbname - assumed 'dbname' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 6
+[20-Feb-2023 19:46:17 America/Chicago] PHP Warning:  Use of undefined constant db - assumed 'db' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 7
+[20-Feb-2023 19:46:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home3/spryguy3/public_html/php/dvddb/inc/db.php:13
+Stack trace:
+#0 /home3/spryguy3/public_html/php/dvddb/inc/db.php(32): sql_conn()
+#1 /home3/spryguy3/public_html/php/dvddb/inc/menu.php(2): require('/home3/spryguy3...')
+#2 /home3/spryguy3/public_html/php/dvddb/index.php(2): require('/home3/spryguy3...')
+#3 {main}
+  thrown in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 13
+[20-Feb-2023 19:46:28 America/Chicago] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 3
+[20-Feb-2023 19:46:28 America/Chicago] PHP Warning:  Use of undefined constant username - assumed 'username' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 4
+[20-Feb-2023 19:46:28 America/Chicago] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 5
+[20-Feb-2023 19:46:28 America/Chicago] PHP Warning:  Use of undefined constant dbname - assumed 'dbname' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 6
+[20-Feb-2023 19:46:28 America/Chicago] PHP Warning:  Use of undefined constant db - assumed 'db' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 7
+[20-Feb-2023 19:46:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home3/spryguy3/public_html/php/dvddb/inc/db.php:13
+Stack trace:
+#0 /home3/spryguy3/public_html/php/dvddb/inc/db.php(32): sql_conn()
+#1 /home3/spryguy3/public_html/php/dvddb/inc/menu.php(2): require('/home3/spryguy3...')
+#2 /home3/spryguy3/public_html/php/dvddb/index.php(2): require('/home3/spryguy3...')
+#3 {main}
+  thrown in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 13
+[20-Feb-2023 19:46:43 America/Chicago] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 3
+[20-Feb-2023 19:46:43 America/Chicago] PHP Warning:  Use of undefined constant username - assumed 'username' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 4
+[20-Feb-2023 19:46:43 America/Chicago] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 5
+[20-Feb-2023 19:46:43 America/Chicago] PHP Warning:  Use of undefined constant dbname - assumed 'dbname' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 6
+[20-Feb-2023 19:46:43 America/Chicago] PHP Warning:  Use of undefined constant db - assumed 'db' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 7
+[20-Feb-2023 19:46:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home3/spryguy3/public_html/php/dvddb/inc/db.php:13
+Stack trace:
+#0 /home3/spryguy3/public_html/php/dvddb/inc/db.php(32): sql_conn()
+#1 /home3/spryguy3/public_html/php/dvddb/inc/menu.php(2): require('/home3/spryguy3...')
+#2 /home3/spryguy3/public_html/php/dvddb/index.php(2): require('/home3/spryguy3...')
+#3 {main}
+  thrown in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 13
+[20-Feb-2023 19:50:00 America/Chicago] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 3
+[20-Feb-2023 19:50:00 America/Chicago] PHP Warning:  Use of undefined constant username - assumed 'username' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 4
+[20-Feb-2023 19:50:00 America/Chicago] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 5
+[20-Feb-2023 19:50:00 America/Chicago] PHP Warning:  Use of undefined constant dbname - assumed 'dbname' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 6
+[20-Feb-2023 19:50:00 America/Chicago] PHP Warning:  Use of undefined constant db - assumed 'db' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 7
+[20-Feb-2023 19:50:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home3/spryguy3/public_html/php/dvddb/inc/db.php:13
+Stack trace:
+#0 /home3/spryguy3/public_html/php/dvddb/inc/db.php(32): sql_conn()
+#1 /home3/spryguy3/public_html/php/dvddb/inc/menu.php(2): require('/home3/spryguy3...')
+#2 /home3/spryguy3/public_html/php/dvddb/index.php(2): require('/home3/spryguy3...')
+#3 {main}
+  thrown in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 13
+[15-May-2023 10:20:51 America/Chicago] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 3
+[15-May-2023 10:20:51 America/Chicago] PHP Warning:  Use of undefined constant username - assumed 'username' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 4
+[15-May-2023 10:20:51 America/Chicago] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 5
+[15-May-2023 10:20:51 America/Chicago] PHP Warning:  Use of undefined constant dbname - assumed 'dbname' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 6
+[15-May-2023 10:20:51 America/Chicago] PHP Warning:  Use of undefined constant db - assumed 'db' (this will throw an Error in a future version of PHP) in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 7
+[15-May-2023 10:20:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home3/spryguy3/public_html/php/dvddb/inc/db.php:13
+Stack trace:
+#0 /home3/spryguy3/public_html/php/dvddb/inc/db.php(32): sql_conn()
+#1 /home3/spryguy3/public_html/php/dvddb/inc/menu.php(2): require('/home3/spryguy3...')
+#2 /home3/spryguy3/public_html/php/dvddb/index.php(2): require('/home3/spryguy3...')
+#3 {main}
+  thrown in /home3/spryguy3/public_html/php/dvddb/inc/db.php on line 13
