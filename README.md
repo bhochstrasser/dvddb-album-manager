@@ -1,3 +1,9 @@
+## PHP 8 compatibility-only edition
+
+If you want to run the original DVDdb v0.6 application on PHP 8 without the Album
+Manager features or database schema changes, use the
+[DVDdb PHP 8 Compatibility Edition](https://github.com/bhochstrasser/dvddb-php8).
+
 # DVDdb PHP 8.x compatibility fork
 
 This is a compatibility-first modernization of the supplied DVDdb codebase.
