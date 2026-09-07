@@ -127,6 +127,7 @@ if ($test=="0.5") {
 	dosquery("insert media values (NULL, \"DVD\")");
 	dosquery("insert media values (NULL, \"VHS\")");
 	dosquery("insert media values (NULL, \"LD\")");
+	dosquery("insert media values (NULL, \"DVD-R\")");
 
 	dosquery("update config set value=\"0.6pre1\" where item=\"version\"");
 	dosquery("insert config values (\"defmedia\", \"1\", \"Default media type. See <A HREF=\\\"tableedit.php\\\">table edit</A> for values\")");
@@ -196,8 +197,17 @@ dosquery("create table if not exists album_config (
 	primary key (album)
 )");
 
-// Seed the one binder dimension confirmed during the 2026 restoration. This is
-// ordinary editable configuration data; Album config can change or delete it.
+// Album Manager expects DVD-R to be available as a media type.
+// Add it for existing DVDdb installations if it is not already present.
+
+$test=doquery("select id from media where name=\"DVD-R\"");
+if ($test!==FALSE && mysqli_num_rows($test)==0) {
+    dosquery("insert media values (NULL, \"DVD-R\")");
+}
+
+// Seed Album 1 with a usable example configuration.
+// This is ordinary editable configuration data and can be changed or deleted
+// through Table Edit to match the user's physical album.
 dosquery("insert ignore into album_config (album,pages,sleeves_per_page) values (1,32,4)");
 
 // Always update the mysql version. If you upgrade mysql, re-run upgradedb.php to
