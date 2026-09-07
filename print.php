@@ -14,9 +14,9 @@ $genre="";
 $filter=array();
 $url="";
 
-$fields="u.fname, m.title, m.reldate, m.rating, m.runtime ";
-$from="movie m, user u";
-$where="m.userid = u.id";
+$fields="u.fname, m.title, m.reldate, m.rating, m.runtime, ml.album, ml.page, ml.sleeve ";
+$from="movie m inner join user u on m.userid = u.id left join movie_location ml on ml.movieid = m.id";
+$where="1=1";
 $orderby="m.title";
 
 if (!saneempty($_GET["userid"] ?? "")) {
@@ -87,7 +87,11 @@ if (mysqli_num_rows($result)==0) {
 		$cells.=td($row["reldate"]);
 		$cells.=td($row["runtime"]." mins");
 
-		$cells.=td($row["genrename"]);
+		$location="";
+		if ($row["album"]!==NULL && $row["page"]!==NULL && $row["sleeve"]!==NULL) {
+			$location="A".intval($row["album"])." / P".intval($row["page"])." / S".intval($row["sleeve"]);
+		}
+		$cells.=td($location);
 
 		$rating="";
 		for ($i=0;$i<$row["rating"];$i++) {
